@@ -49,9 +49,6 @@
                                 <field name="values"/>
                                 <field name="action"/>
                                 <field name="notes"/>
-                                <!--field name="model"/-->
-                                <!--field name="res_id"/-->
-                                <!--field name="reference"/-->
                             </tree>
                         </field>
                     </group>
