@@ -5,7 +5,7 @@
 {
     'name': 'Lab Test Log',
     'summary': 'Lab Test Log Module used by CLVsol Solutions.',
-    'version': '15.0.5.0',
+    'version': '15.0.6.0',
     'author': 'Carlos Eduardo Vercelino - CLVsol',
     'category': 'CLVsol Solutions',
     'license': 'AGPL-3',
